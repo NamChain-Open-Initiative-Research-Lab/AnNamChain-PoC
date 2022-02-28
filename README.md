@@ -7,5 +7,15 @@ AnNamChain is a permissioned blockchain solution for Food Supply Chain Managemen
 
 
 
+# SDG 
+
+<p align="center">
+    <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/G1.png" width="200"/>    
+    <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/G2.png" width="200"/> 
+    <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/G3.png" width="200"/> 
+    <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/G10.png" width="200"/> 
+    <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/G11.png" width="200"/> 
+    <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/G12.png" width="200"/> 
+</p>   
 
 
